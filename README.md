@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Ramona
 
 <!--
 **ramonavacarasu/ramonaVacarasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 🌱 Since I started coding I learned how important is to be perseverent, curious and up to date and try to become better every day at any skill.
 
 🌟 I’m currently learning Java, Angular(Typescript, Html, CSS).
+
+github stackoverflow website codeforces leetcode linkedin
