@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 🌟 I’m currently learning Java, Angular(Typescript, Html, CSS).
 
-github stackoverflow website codeforces leetcode linkedin
+
+⚡ Fun fact: “A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!”
