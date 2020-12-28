@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 🌱 Since I started coding I learned how important is to be perseverant, curious and up to date and try to become better every day at any skill.
 
-🌟 I’m currently learning Java & Angular (Typescript, HTML, CSS).
+🌟 I’m currently learning Java & Angular (TypeScript, HTML, CSS).
 
 
