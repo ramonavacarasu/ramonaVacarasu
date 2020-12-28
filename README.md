@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 🔭 I am a junior Java developer with a strong passion for programming and solving logical and matematical problems. 
 
-🌱 Since I started coding I learned how important is to be perseverent, curious and up to date and try to become better every day at any skill.
+🌱 Since I started coding I learned how important is to be perseverant, curious and up to date and try to become better every day at any skill.
 
-🌟 I’m currently learning Java & Angular (Typescript, Html, CSS).
+🌟 I’m currently learning Java & Angular (Typescript, HTML, CSS).
 
 
