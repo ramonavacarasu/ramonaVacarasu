@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 <br/>
-<blockquote>
-<blockquote>
+<blockquote style="text-align:left;">
+<blockquote style="text-align:left;">
 Nothing in this world can survive and remain useful without an update.
 </blockquote> — Charles M. Tadros
 </blockquote>
