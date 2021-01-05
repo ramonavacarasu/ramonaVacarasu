@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 🌟 I’m currently learning Java & Angular (TypeScript, HTML, CSS).
 
 
-<br/>
-<blockquote style="text-align:right;">
+<br/><br/><br/>
+<blockquote align="right">
 <blockquote style="text-align:right;">
 Nothing in this world can survive and remain useful without an update.
 </blockquote> — Charles M. Tadros
