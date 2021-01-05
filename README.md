@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 🌟 I’m currently learning Java & Angular (TypeScript, HTML, CSS).
 
 
+ ✨ 
 
-<blockquote> Nothing in this world can survive and remain useful without an update. <blockquote> —Charles M. Tadros
+<blockquote>Nothing in this world can survive and remain useful without an update. <blockquote> —Charles M. Tadros
 
+ ✨
