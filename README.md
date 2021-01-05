@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <br/><br/>
-<blockquote float="right">
+<blockquote>
 <blockquote>
 Nothing in this world can survive and remain useful without an update.
 </blockquote> — Charles M. Tadros
