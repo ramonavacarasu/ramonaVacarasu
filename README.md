@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 🔭 I am a junior Java developer with a strong passion for programming and solving logical and matematical problems. 
 
 🌱 Since I started coding I learned how important is to be perseverant, curious and up to date and try to become better every day at any skill.
 
 🌟 I’m currently learning Java & Angular (TypeScript, HTML, CSS).
 
+
+Favourite quote: 
+<blockquote> Nothing in this world can survive and remain useful without an update.
+<blockquote> —Charles M. Tadros
 
